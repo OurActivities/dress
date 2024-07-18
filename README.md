@@ -2,7 +2,7 @@
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-# Dress
+# Dress 
 
 >  To put on or wear formal, elaborate, or fancy clothes.
 
